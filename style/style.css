@@ -1,10 +1,10 @@
 body {
     position: relative;
-    width: 1920px;
+    width: 100%;
     height: 4600px;
     background: #0B1D26;
     box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.2);
-    margin: 0 auto;
+    margin: 0;
     padding: 0;
 }
 
@@ -37,6 +37,9 @@ header {
     transition: 0.4s ;
 }
 
+.nav-header-ul {
+    
+}
 
 .list-item-equipment {
     position: absolute;
@@ -54,7 +57,7 @@ header {
 
 .list-item-about-us {
     position: absolute;
-    width: 75px;
+    width: 80px;
     height: 22px;
     left: 869px;
     top: 2px;
@@ -113,16 +116,17 @@ header {
 
 /* SOCIAL section */
 
+
 .social-follow-us {
     position: absolute;
-    width: 77px;
+    width: 85px;
     height: 22px;
-    left: 56px;
+    left: 53px;
     top: 353px;
     margin: 0;
     padding: 0;
     display: inline-block;
-
+    
     font-family: 'Gilroy-Bold', sans-serif;
     font-style: normal;
     font-weight: bold;
