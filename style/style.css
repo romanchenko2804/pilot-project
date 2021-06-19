@@ -1,6 +1,6 @@
 body {
     position: relative;
-    width: 1920px;
+    width: 1900px;
     height: 4600px;
     background: #354147;
     box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.2);
@@ -547,11 +547,113 @@ a.smc-more01 img {
 
     position: absolute;
     top: 400px;
-;
-}
-
-a.smc-more02 img {
-    
 }
 
 
+   /*    03    */
+.section-main-content-03 {
+    position: absolute;
+    width: 1462px;
+    height: 720px;
+    top: 1840px;
+    bottom: 480px;
+    margin: 0px 0px 200px 0px;
+    /* border: dashed 3px tomato; */
+}
+
+.smc-img03 {
+    position: absolute;
+    right: 0px;
+}
+
+.numeral3 {
+    font-family: 'Gilroy-Bold',
+    sans-serif;
+    font-size: 240px;
+    line-height: 240px;
+    font-weight: bold;
+    color: #FFFFFF;
+
+    position: absolute;
+    top: 38px;
+    left: 0px;
+    opacity: 0.1;
+}
+
+.smc-block03 {
+    position: absolute;
+    top: 140px;
+    left: 150px;
+    width: 632px;
+    height: 439px;
+}
+
+.smc-line03 {
+    position: absolute;
+    top: 10px;
+    width: 72px;
+    height: 2px;
+    color: #FBD784;
+}
+
+.smc-top03 {
+     font-family: 'Gilroy-Bold',
+     sans-serif;
+     font-size: 18px;
+     line-height: 22px;
+     font-weight: 800;
+     font-style: normal;
+     width: 380px;
+     color: #FBD784;
+
+     position: absolute;
+     left: 90px;
+     text-transform: uppercase;
+     letter-spacing: 6px;
+
+}
+
+.smc-head03 {
+    font-family: 'Times New Roman',
+    sans-serif;
+    font-size: 64px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 77px;
+    color: #FFFFFF;
+    width: 555px;
+    height: 155px;
+
+    position: absolute;
+    top: 50px;
+}
+
+.smc-text03 {
+     font-family: 'Gilroy-Bold',
+     sans-serif;
+     font-size: 18px;
+     line-height: 32px;
+     font-weight: bold;
+     font-style: normal;
+     color: #FFFFFF;
+
+     position: absolute;
+     top: 230px;
+     width: 632px;
+}
+
+.smc-more03 {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 130px;
+    height: 22px;
+
+     font-family: 'Gilroy-Bold',
+     sans-serif;
+     font-size: 18px;
+     font-weight: bold;
+     color: #FBD784;
+
+     text-decoration: none;
+}
