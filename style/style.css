@@ -756,7 +756,7 @@ a.smc-more03 img {
 
 .copyright {
     position: absolute;
-    bottom: 0px;
+    bottom: -100px;
     left: 0px;
 
     font-family: 'Gilroy-Medium',
